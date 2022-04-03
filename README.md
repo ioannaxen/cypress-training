@@ -1,19 +1,13 @@
-# Cypress Playground
+# Cypress tutorial
 
-## Code
+This project is based on the Frontend Masters course [Testing Web Apps with Cypress](https://frontendmasters.com/courses/cypress) by [Steve Kinney](https://github.com/stevekinney).
 
-There are two repositories for this project:
+The example repo for this tutorial can be found [here](https://github.com/stevekinney/cypress).
 
-- This repostory.
-- A [super simple starter](https://github.com/stevekinney/cypress-starter).
-
-Clone down both, run `npm install` and the read below for a few extra steps for setting up this repository.
-
-## Lessons and Content
-
-All of the lessons can be found [here](https://github.com/stevekinney/cypress-examples/tree/main/lessons#readme).
 
 ## Getting Started
+
+Ensure you're using node 16.
 
 First and foremost, install your dependencies.
 
@@ -42,5 +36,3 @@ You can run the tests using the following command. **Note**: You must have compl
 ```
 npx cypress open
 ```
-
-[docker]: https://www.docker.com/
